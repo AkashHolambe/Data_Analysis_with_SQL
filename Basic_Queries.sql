@@ -1,3 +1,4 @@
+
 show DATABASES
 
 Use moviesdb
@@ -10,4 +11,6 @@ show TABLES;
 Select * from actors;
 
 # "select * " keyword selects all the information which is present in the actors table.
+
+# Drop key word is used to drop particular DATABASE  form all DATABASE.
 

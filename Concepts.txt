@@ -1,0 +1,12 @@
+# DDL data defination LANGUAGE Create, alter, rename ,truncate AND DROP 
+# DQL - Data Query LANGUAGE, Select
+# DML - Data manupulation LANGUAGE, INSERT,update, delect
+# DCl data control LANGUAGE grant and revoke permission to users
+# TCL -  TRANSACTION Control LANGUAGE START TRANSACTION and COMMit ROLLBACK.
+
+
+Primary key - This must be not null and unique.
+
+foregin key - a foregin key is column in a table that refers that the Primary key in other table
+this help us to connect two tables.
+foregin key can have dublicate values.
