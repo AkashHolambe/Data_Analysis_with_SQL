@@ -14,3 +14,4 @@ Select * from actors;
 
 # Drop key word is used to drop particular DATABASE  form all DATABASE.
 
+# WHERE KEY Word is used to add other conditon and find specific VALUES.
